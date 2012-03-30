@@ -1,0 +1,17 @@
+Catalyst
+- Copy MockJSON to Catalyst.
+- Copy Backbone.sync() override.
+- Copy UserModel and make generic.
+
+
+
+
+
+
+Message Format
+{
+	status: "success", "fail", "abort"
+	data: {
+		
+	}
+}
